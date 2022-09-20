@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+body{
+    background-image: url(../img/5437842.jpg)
+}
+.card-group{
+  justify-content: space-evenly;
+}
+.card{
+  gap: 2rem;
+  max-width: 400px;
+}
